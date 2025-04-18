@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-18)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`f7bb91c`](https://github.com/stdlib-js/stdlib/commit/f7bb91c2aa3b31c86ddd57cfd3396632c78d42c0) - ensure support for zero-dimensional shapes
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f7bb91c`](https://github.com/stdlib-js/stdlib/commit/f7bb91c2aa3b31c86ddd57cfd3396632c78d42c0) - **fix:** ensure support for zero-dimensional shapes _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-07-29)
