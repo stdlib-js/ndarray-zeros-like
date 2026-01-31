@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-zeros-like",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Create a zero-filled ndarray having the same shape and data type as a provided ndarray.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.2.2",
-    "@stdlib/assert-is-empty-collection": "^0.2.2",
+    "@stdlib/assert-is-empty-collection": "^0.2.3",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/assert-is-nonnegative-integer-array": "^0.2.2",
     "@stdlib/assert-is-number": "^0.2.2",
@@ -56,8 +56,8 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-complex128": "^0.3.0",
-    "@stdlib/array-complex64": "^0.3.0",
+    "@stdlib/array-complex128": "^0.3.1",
+    "@stdlib/array-complex64": "^0.3.1",
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/array-int16": "^0.2.2",
@@ -67,10 +67,10 @@
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/array-uint8": "^0.2.2",
     "@stdlib/array-uint8c": "^0.2.2",
-    "@stdlib/assert-instance-of": "^0.2.2",
+    "@stdlib/assert-instance-of": "^0.3.0",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/ndarray-base-zeros": "^0.3.0",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/ndarray-zeros": "^0.3.0",
     "@stdlib/strided-base-reinterpret-complex128": "^0.2.2",
     "@stdlib/strided-base-reinterpret-complex64": "^0.2.1",
