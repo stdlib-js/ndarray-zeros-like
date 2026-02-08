@@ -232,8 +232,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-zeros-like.svg
 [npm-url]: https://npmjs.org/package/@stdlib/ndarray-zeros-like
 
-[test-image]: https://github.com/stdlib-js/ndarray-zeros-like/actions/workflows/test.yml/badge.svg?branch=v0.3.1
-[test-url]: https://github.com/stdlib-js/ndarray-zeros-like/actions/workflows/test.yml?query=branch:v0.3.1
+[test-image]: https://github.com/stdlib-js/ndarray-zeros-like/actions/workflows/test.yml/badge.svg?branch=v0.3.2
+[test-url]: https://github.com/stdlib-js/ndarray-zeros-like/actions/workflows/test.yml?query=branch:v0.3.2
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-zeros-like/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-zeros-like?branch=main
