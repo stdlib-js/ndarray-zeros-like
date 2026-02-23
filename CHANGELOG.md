@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a7bf4ae`](https://github.com/stdlib-js/stdlib/commit/a7bf4aec94324369038c58bc51206f9397e59e16) - **bench:** refactor to use string interpolation in `ndarray/zeros-like` [(#10366)](https://github.com/stdlib-js/stdlib/pull/10366) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2026-02-08)
