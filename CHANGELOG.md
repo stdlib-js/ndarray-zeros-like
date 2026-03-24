@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-02)
+## Unreleased (2026-03-24)
 
 <section class="commits">
 
@@ -12,6 +12,11 @@
 
 <details>
 
+-   [`7d9c0c0`](https://github.com/stdlib-js/stdlib/commit/7d9c0c0427c6e9cfc3e54df9d3156faaa88cbcc4) - **docs:** update docs and examples to accommodate dtype instances _(by Athan Reines)_
+-   [`77ef712`](https://github.com/stdlib-js/stdlib/commit/77ef7127db1f600331d726a36030958f5f4a5283) - **refactor:** remove unnecessary check _(by Athan Reines)_
+-   [`6bc548b`](https://github.com/stdlib-js/stdlib/commit/6bc548bc2b0550f3c3721a1ab3e7ff2c75c392f6) - **refactor:** more strictly impose dtype and shape constraints _(by Athan Reines)_
+-   [`6294d07`](https://github.com/stdlib-js/stdlib/commit/6294d0745d99cf7a3d70772bd0bd625ce5abd7ca) - **refactor:** enforce dtype constraints _(by Athan Reines)_
+-   [`802937f`](https://github.com/stdlib-js/stdlib/commit/802937ffc4468994b1456d9685766894c3fc67e4) - **refactor:** avoid unnecessary offset calculation _(by Athan Reines)_
 -   [`a7bf4ae`](https://github.com/stdlib-js/stdlib/commit/a7bf4aec94324369038c58bc51206f9397e59e16) - **bench:** refactor to use string interpolation in `ndarray/zeros-like` [(#10366)](https://github.com/stdlib-js/stdlib/pull/10366) _(by Shubham)_
 
 </details>
@@ -24,8 +29,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Shubham
 
 </section>
