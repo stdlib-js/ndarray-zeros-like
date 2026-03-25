@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-24)
+## Unreleased (2026-03-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8112cea`](https://github.com/stdlib-js/stdlib/commit/8112cea1ed134b3070555a08d76ffb7b334f58ef) - **refactor:** remove overloads and use generic _(by Athan Reines)_
 -   [`7d9c0c0`](https://github.com/stdlib-js/stdlib/commit/7d9c0c0427c6e9cfc3e54df9d3156faaa88cbcc4) - **docs:** update docs and examples to accommodate dtype instances _(by Athan Reines)_
 -   [`77ef712`](https://github.com/stdlib-js/stdlib/commit/77ef7127db1f600331d726a36030958f5f4a5283) - **refactor:** remove unnecessary check _(by Athan Reines)_
 -   [`6bc548b`](https://github.com/stdlib-js/stdlib/commit/6bc548bc2b0550f3c3721a1ab3e7ff2c75c392f6) - **refactor:** more strictly impose dtype and shape constraints _(by Athan Reines)_
