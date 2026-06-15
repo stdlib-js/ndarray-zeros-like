@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-21)
+## Unreleased (2026-06-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
 -   [`84ca269`](https://github.com/stdlib-js/stdlib/commit/84ca26945e2e2c705a1a0bfcb00bf0fd235f990b) - **test:** use ndarray instance rather than ndarray-like objects _(by Athan Reines)_
 -   [`8112cea`](https://github.com/stdlib-js/stdlib/commit/8112cea1ed134b3070555a08d76ffb7b334f58ef) - **refactor:** remove overloads and use generic _(by Athan Reines)_
 -   [`7d9c0c0`](https://github.com/stdlib-js/stdlib/commit/7d9c0c0427c6e9cfc3e54df9d3156faaa88cbcc4) - **docs:** update docs and examples to accommodate dtype instances _(by Athan Reines)_
@@ -31,9 +32,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Shubham
 
 </section>
